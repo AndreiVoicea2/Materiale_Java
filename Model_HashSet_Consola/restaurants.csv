@@ -1,0 +1,16 @@
+ID, NAME, CUISINE, LOCATION, OPEN_YEAR, NO_SEATS, AVERAGE_MEAL_PRICE, RATING
+1, Le Bernardin, Seafood, New York City, 1986, 80, 150.00, 4.9
+2, Alinea, Contemporary American, Chicago, 2005, 64, 210.00, 4.7
+3, Eleven Madison Park, New American, New York City, 1998, 80, 315.00, 4.6
+4, Fäviken, Scandinavian, Järpen, Sweden, 2008, 16, 265.00, 3.9
+5, Ikarus, International, Salzburg, Austria, 2003, 60, 190.00, 4.2
+6, Trois Mec, French, Los Angeles, 2013, 26, 85.00, 4.1
+7, Tickets, Spanish, Barcelona, Spain, 2011, 90, 120.00, 4.0
+8, White Rabbit, Russian, Moscow, Russia, 2011, 140, 105.00, 4.3
+9, Amber, Contemporary, Hong Kong, 2005, 52, 163.00, 3.9
+10, Aponiente, Seafood, El Puerto de Santa María, Spain, 2007, 38, 235.00, 4.1
+11, Gymkhana, Indian, London, United Kingdom, 2005, 58, 50.00, 4.0
+12, The Chairman, Chinese, Hong Kong, 2009, 40, 32.00, 4.6
+13, The Test Kitchen, Contemporary, Cape Town, South Africa, 2010, 40, 98.00, 4.2
+14, Attica, Contemporary, Melbourne, Australia, 2005, 58, 125.00, 4.4
+15, D.O.M., Brazilian, São Paulo, Brazil, 1999, 50, 150.00, 4.1
